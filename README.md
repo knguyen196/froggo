@@ -3,10 +3,10 @@
 A desktop pet that reminds you to take care of yourself. Froggo gets thirsty, hungry, and tired over time, and caring for it nudges you to drink water, eat, and stretch too.
 
 <p align="center">
-  <img src="assets/froggo-thirsty.gif" width="160" alt="Froggo thirsty" />
-  <img src="assets/froggo-drink.gif" width="160" alt="Froggo being watered" />
-  <img src="assets/froggo-hungry.gif" width="160" alt="Froggo hungry" />
-  <img src="assets/froggo-eat.gif" width="160" alt="Froggo eating" />
+  <img src="froggo/assets/froggo-thirsty.gif" width="160" alt="Froggo thirsty" />
+  <img src="froggo/assets/froggo-drink.gif" width="160" alt="Froggo being watered" />
+  <img src="froggo/assets/froggo-hungry.gif" width="160" alt="Froggo hungry" />
+  <img src="froggo/assets/froggo-eat.gif" width="160" alt="Froggo eating" />
 </p>
 
 ## What it does
