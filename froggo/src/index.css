@@ -1,0 +1,18 @@
+html,
+body,
+#root {
+  margin: 0;
+  background: transparent;
+  overflow: hidden;
+}
+
+#root {
+  -webkit-app-region: drag;
+}
+button {
+  -webkit-app-region: no-drag;
+}
+
+.controls {
+  display: none;
+}
